@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    
     private CharacterController character_Controller;
 
     private Vector3 move_Direction;
