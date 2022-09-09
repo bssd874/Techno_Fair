@@ -368,6 +368,7 @@
 "Assets/PlayerScript/PlayerSprintAndCrouch.cs"
 "Assets/PlayerScript/TagHolder.cs"
 "Assets/System/Teleport.cs"
+"Assets/System/VideoController.cs"
 -langversion:9.0
 
 /deterministic
