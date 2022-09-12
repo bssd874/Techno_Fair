@@ -367,6 +367,7 @@
 "Assets/PlayerScript/PlayerMovement.cs"
 "Assets/PlayerScript/PlayerSprintAndCrouch.cs"
 "Assets/PlayerScript/TagHolder.cs"
+"Assets/System/OpenPanel.cs"
 "Assets/System/Teleport.cs"
 "Assets/System/VideoController.cs"
 -langversion:9.0

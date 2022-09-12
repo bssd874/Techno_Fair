@@ -70,23 +70,23 @@ Material:
     - _EmissiveIntensity: 0
     - _FresnelInvert: 0
     - _FresnelOnOff: 0
-    - _FresnelStrength: 2.24
+    - _FresnelStrength: 0
     - _FresnelThickness: 0
     - _GlossMapScale: 1
     - _Glossiness: 1.22
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
-    - _NormalIntensity: 1
+    - _NormalIntensity: 0.99
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _ReflectionIntensity: 2
     - _Refraction: 1.4
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _SpecularIntensity: 0.2
+    - _SpecularIntensity: 0.14
     - _SrcBlend: 1
-    - _Transparency: 0.82
+    - _Transparency: 0.929
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:

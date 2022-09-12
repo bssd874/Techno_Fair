@@ -197,11 +197,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2084180886, guid: a3b0992f749e5c249b89edad44183964, type: 3}
+    - target: {fileID: 0}
       propertyPath: StartTeleport
       value: 
       objectReference: {fileID: 1090557930}
-    - target: {fileID: 2084180886, guid: a3b0992f749e5c249b89edad44183964, type: 3}
+    - target: {fileID: 0}
       propertyPath: TeleportTarget
       value: 
       objectReference: {fileID: 297552707}
@@ -253,8 +253,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 2084180886, guid: a3b0992f749e5c249b89edad44183964, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a3b0992f749e5c249b89edad44183964, type: 3}
 --- !u!1 &1447272234
 GameObject:

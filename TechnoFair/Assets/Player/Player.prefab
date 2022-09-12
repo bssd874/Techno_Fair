@@ -151,7 +151,6 @@ GameObject:
   - component: {fileID: 648070046103371305}
   - component: {fileID: 5255458045327122468}
   - component: {fileID: 8330438061636269868}
-  - component: {fileID: 2084180886}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -225,21 +224,6 @@ MonoBehaviour:
   speed: 10
   gravity: 20
   jump_Force: 10
---- !u!114 &2084180886
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7815910059246176618}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7414fafce95eda549b4e50bda7e8034d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Player: {fileID: 7815910059246176618}
-  TeleportTarget: {fileID: 0}
-  StartTeleport: {fileID: 0}
 --- !u!1 &8045455190451662751
 GameObject:
   m_ObjectHideFlags: 0
